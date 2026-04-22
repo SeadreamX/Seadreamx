@@ -1,0 +1,15 @@
+algoritmo "Primeiro Programa"
+
+var
+n1,n2, s: inteiro
+
+inicio
+escreval ("informe um  numero: ")
+leia (n1)
+escreval ("informe outro numero: ")
+  leia (n2)
+s <- n1+n2
+
+Escreva ( " a soma de ", n1,  " e de ", n2, " é ", s)
+
+fimalgoritmo
