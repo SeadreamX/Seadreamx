@@ -45,6 +45,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-p
 
 </div>
 
-## 🐍 Jogo da Cobrinha (Contribuições)
-
-![Snake Animation](https://raw.githubusercontent.com/seadreamx/seadreamx/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Seadreamx/Seadreamx/output/github-contribution-grid-snake-dark.svg)
