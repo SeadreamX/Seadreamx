@@ -1,24 +1,28 @@
-name: Generate Datas
+name: Gerar Animacao da Cobrinha
 
 on:
+  # Executa automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
+  # Permite rodar a automação manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Tarefa para atualizar os dados da cobrinha
     runs-on: ubuntu-latest
 
+    # Dá permissão para a automação salvar o arquivo no repositório
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
+      # Passo 1: Baixa o código do seu repositório na máquina virtual
+      - name: Baixar o repositorio
         uses: actions/checkout@v4
 
-      # Snake Animation (Gerando a animação da cobrinha)
-      - name: Generate snake animation
+      # Passo 2: Gera a animação baseada no seu gráfico de contribuições
+      - name: Gerar a animacao da cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: seadreamx
@@ -26,8 +30,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Deploy para branch output
-      - name: Deploy to GitHub Pages
+      # Passo 3: Salva a imagem gerada na branch oculta chamada "output"
+      - name: Publicar animacao na branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
