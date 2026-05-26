@@ -5,7 +5,7 @@
 - Santander Bootcamp 2026 - AI Java Back-end, AI React Front-end e Rust AI Developer.
 - 😄 Pronomes: Ela/Dela
 
-![SeadreamX](https://streak-stats.demolab.com?user=SeadreamX&theme=radical&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+![SeadreamX](https://streak-stats.demolab.com?user=seadreamx&theme=radical&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
