@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-[![SeadreamX GitHub stats](https://github-readme-stats.vercel.app/api?username=Seadreamx)](https://github.com/anuraghazra/github-readme-stats)
+[![SeadreamX GitHub stats](https://github-readme-stats.vercel.app/api?username=Seadreamx)](https://github.com/Seadreamx/github-readme-stats)
 
 ---
 
