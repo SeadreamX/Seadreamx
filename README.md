@@ -2,14 +2,10 @@
 
 - 🌱 Estudante de Ciência da Computação — 2º semestre
 - 💻 Focada em desenvolvimento Full Stack
+- Santander Bootcamp 2026 - AI Java Back-end, AI React Front-end e Rust AI Developer.
 - 😄 Pronomes: Ela/Dela
 
-<div align="center">
-  <a href="https://github.com/SeadreamX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeadreamX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeadreamX&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+![SeadreamX](https://github-readme-streak-stats.herokuapp.com/?user=SeadreamX&theme=react&locale=pt_BR&card_height=170)
 </div>
 
 <div style="display: inline_block"><br>
