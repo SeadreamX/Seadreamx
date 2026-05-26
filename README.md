@@ -7,24 +7,16 @@
 
 ## 📊 GitHub Stats
 
-[![SeadreamX GitHub stats](https://github-readme-stats.vercel.app/api?username=Seadreamx)](https://github.com/Seadreamx/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seadreamx&show_icons=true&theme=radial)
 
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Java" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-<img align="center" alt="Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<div style="display: inline-block">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
-
 ---
 
 </div>
