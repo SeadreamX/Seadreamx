@@ -7,15 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/SeadreamX">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeadreamX&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&border_color=FF69B4"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeadreamX&layout=compact&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_color=FF69B4"/>
-
-  </a>
-</div>
+[![SeadreamX GitHub stats](https://github-readme-stats.vercel.app/api?username=Seadreamx)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -23,27 +15,17 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 <img align="center" alt="Python" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
 
 ---
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SeadreamX&theme=radical&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
 
 </div>
 
@@ -70,9 +52,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 </a>
 
 </div>
-
----
-
-## 🐍 Snake Animation
 
 ![Snake animation](https://raw.githubusercontent.com/SeadreamX/SeadreamX/output/github-contribution-grid-snake-dark.svg)
