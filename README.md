@@ -7,10 +7,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seadreamx&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ffffff&text_color=ffb6c1&border_color=ff69b4)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seadreamx&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ffffff&text_color=ffb6c1&border_color=ff69b4&locale=pt-br)
 
 ---
-
 ## 🚀 Tecnologias que estou aprendendo
 
 
