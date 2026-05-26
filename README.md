@@ -1,11 +1,23 @@
-# Olá! Eu sou a Rosane Garcia 👋
+# 🌸 Olá! Eu sou a Rosane Garcia 👋
+
+<img align="right" alt="coding-girl" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Estudante de Ciência da Computação — 2º semestre
-- 💻 Focada em desenvolvimento Full Stack
-- Santander Bootcamp 2026 - AI Java Back-end, AI React Front-end e Rust AI Developer.
+- 🎯 Focada em desenvolvimento Full Stack
+- 💻 Santander Bootcamp 2026 - AI Java Back-end, AI React Front-end e Rust AI Developer.
 - 😄 Pronomes: Ela/Dela
 
-![SeadreamX](https://streak-stats.demolab.com?user=Seadreamx&theme=radical&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/SeadreamX">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeadreamX&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&border_color=FF69B4"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeadreamX&layout=compact&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_color=FF69B4"/>
+
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40"
