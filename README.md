@@ -7,15 +7,6 @@
 
 ## 📊 GitHub Stats
 
-# 🌸 Olá! Eu sou a Rosane Garcia 👋
-
-- 🌱 Estudante de Ciência da Computação — 2º semestre
-- 🎯 Focada em desenvolvimento Full Stack
-- 💻 Santander Bootcamp 2026 - AI Java Back-end, AI React Front-end e Rust AI Developer.
-- 😄 Pronomes: Ela/Dela
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Seadreamx&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ffffff&text_color=ffb6c1&border_color=ff69b4)
 
 ---
